@@ -15,6 +15,11 @@ In my Smashing Toronto talk, I'll be live coding an SVG animation from start to 
 
 - Optimization techniques in my article [High Performance SVGS](https://css-tricks.com/high-performance-svgs/)
 - Heather Migliorisi's article on [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
+- I wrote an O'Reilly book on [SVG Animations](https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation-ebook/dp/B06XPVW2PP/)
+- Chris Coyier wrote an [A Book Apart book](https://abookapart.com/products/practical-svg) on SVG in general and it's very easy to read
+- Sara Soueidan has a ton of articles [on her site](https://www.sarasoueidan.com/blog/)
+- I have a [Frontend Masters course on SVG Animation](https://frontendmasters.com/courses/svg-animation/) if video is your jam. I keep a [repo of free materials](https://github.com/sdras/svg-workshop) up to date here.
+- Val Head and I give [web animation workshops](https://webanimationworkshops.com/).
 
 # Left Shark!
 
