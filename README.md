@@ -9,7 +9,13 @@ In my Smashing Toronto talk, I'll be live coding an SVG animation from start to 
 - Google image search, reuse with modification [example](https://www.google.com/search?q=thing&tbm=isch&source=lnt&tbs=sur:fmc&sa=X&ved=0ahUKEwjo3bL8utbbAhUM44MKHcH2BgwQpwUIIA&biw=1289&bih=1209&dpr=1)
 - Adobe Illustrator ([this is paid](https://www.adobe.com/products/illustrator.html), but [inkscape is free](https://inkscape.org/en/))
 - SVGOMG, an [optimizer for SVG](https://jakearchibald.github.io/svgomg/)
+- SVG Path Builder from [Anthony Dugois](https://codepen.io/anthonydugois/full/mewdyZ)
 
-Left Shark!
+## Further reading and resources that we probably don't have time for
+
+- Optimization techniques in my article [High Performance SVGS](https://css-tricks.com/high-performance-svgs/)
+- Heather Migliorisi's article on [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
+
+# Left Shark!
 
 ![Left Shark](https://github.com/sdras/livecode-svganimation/raw/master/images/leftshark.gif)
