@@ -51,7 +51,7 @@
       <path d="M514.85,319.15S598.67,63.58,896.93,43.92" transform="translate(6 2.5)" fill="none" stroke="#ea9713" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
       <path d="M510.5,306.73S594.32,51.16,892.58,31.5" transform="translate(6 2.5)" fill="none" stroke="#e82315" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
     </g>
-    <g class="boat">
+    <g id="boat">
       <path class="tail" d="M595.66,409.22c-2.49,0-4.17-.79-5.14-2.41-3.8-6.35,4-23.95,7.48-30.43a43.54,43.54,0,0,1,26.83-8.88c14.06,0,28.53,6.13,43,18.23-6.76.43-26,3.11-57.79,18.91C604,407.68,599.11,409.22,595.66,409.22Z" transform="translate(6 2.5)" fill="url(#linear-gradient-2)" stroke="black" stroke-width="2"/>
       <g id="legs-back">
           <circle cx="292.5" cy="341" r="26" fill="#cccaca" stroke="black" stroke-width="2"/>
