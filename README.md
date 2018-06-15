@@ -1,8 +1,8 @@
-# SVG Animation Live Code
+# SVG Animation Live Code 😬
 
-In my Smashing Toronto talk, I'll be live coding an SVG animation from start to finish. Here's the repo that houses the base materials, and any further references for things we don't have time to cover.
+In my Smashing Toronto talk, I'll be live coding an SVG animation from start to finish. Here's the repo that houses the base materials, and any further references for things we don't have time to cover. 🎨 💻
 
-## Tools that I use or mention during the course of the talk
+## Tools that I use or mention during the course of the talk 🛠
 
 - Codepen-safe versions of the [GSAP Plugins](http://codepen.io/GreenSock/pen/OPqpRJ)
 - Codepen debugger [chrome extension](https://chrome.google.com/webstore/detail/codopen/agnkphdgffianchpipdbkeaclfbobaak)
@@ -11,7 +11,7 @@ In my Smashing Toronto talk, I'll be live coding an SVG animation from start to 
 - SVGOMG, an [optimizer for SVG](https://jakearchibald.github.io/svgomg/)
 - SVG Path Builder from [Anthony Dugois](https://codepen.io/anthonydugois/full/mewdyZ)
 
-## Further reading and resources that we probably don't have time for
+## Further reading and resources that we probably don't have time for 📓
 
 - Optimization techniques in my article [High Performance SVGS](https://css-tricks.com/high-performance-svgs/)
 - Heather Migliorisi's article on [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
@@ -21,6 +21,9 @@ In my Smashing Toronto talk, I'll be live coding an SVG animation from start to 
 - I have a [Frontend Masters course on SVG Animation](https://frontendmasters.com/courses/svg-animation/) if video is your jam. I keep a [repo of free materials](https://github.com/sdras/svg-workshop) up to date here.
 - Val Head and I give [web animation workshops](https://webanimationworkshops.com/).
 
-# Left Shark!
+# Left Shark! 👈🦈
 
 ![Left Shark](https://github.com/sdras/livecode-svganimation/raw/master/images/leftshark.gif)
+
+## More info:
+- [twitter](https://twitter.com/sarah_edo)
