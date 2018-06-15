@@ -62,7 +62,7 @@
         <path d="M320.69,365.29c-15.44,0-28.19-8-31.73-19.77-2.28-7.64-.62-16,4.68-23.46s13.73-13.35,23.63-16.31a48.32,48.32,0,0,1,13.75-2c15.45,0,28.2,7.94,31.73,19.77,2.28,7.63.62,16-4.67,23.45s-13.74,13.36-23.64,16.31A47.93,47.93,0,0,1,320.69,365.29Z" transform="translate(6 2.5)" fill="url(#linear-gradient-3)" stroke="black" stroke-width="2"/> 
         <path d="M596.08,418.35a46.61,46.61,0,0,1-20.55-5C566.27,408.79,559,401.65,555,393.3s-4.18-16.77-.64-23.91c4.58-9.24,14.78-14.75,27.27-14.75a46.58,46.58,0,0,1,20.55,5c9.26,4.59,16.55,11.72,20.54,20.08s4.17,16.77.63,23.9C618.77,412.84,608.58,418.35,596.08,418.35Z" transform="translate(6 2.5)" fill="url(#linear-gradient-4)" stroke="black" stroke-width="2"/>
     </g>
-    <path id="arm" d="M 517 265 C 530 262 530 262 530 250 Q 540 230 550 250 C 550 285 550 285 510 300" transform="translate(6 2.5)" stroke="#000" stroke-miterlimit="10" fill="url(#linear-gradient-5)"/> 
+    <path id="arm" d="M517,265c7.5-.5,8.93-14.39,9.23-18.18.34-4.16,5.77-4.82,7.78-3.9,3.59,1.63,2.51,4.29,3,7.38C540.33,269,533,297.13,510,300" transform="translate(0.53 2.5)" stroke="#000" stroke-miterlimit="10" fill="url(#linear-gradient-5)"/> 
     </g><!--boat-->
     <image id="ripple" width="872" height="432" transform="translate(3.5 471) scale(1 1.01)" xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/drawing-reflection.jpg"/>
   </svg>
