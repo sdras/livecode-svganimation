@@ -1,0 +1,69 @@
+<div id="app">
+   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="893.64" height="906" viewBox="0 0 893.64 906">
+    <defs>
+      <clipPath id="clip-path" transform="translate(0 2.5)">
+        <rect x="5" y="386.5" width="870" height="107" fill="none"/>
+      </clipPath>
+      <linearGradient id="linear-gradient" x1="441.25" y1="484" x2="441.25" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#4d4d4d"/>
+        <stop offset="0.11" stop-color="#3d3d3d"/>
+        <stop offset="0.32" stop-color="#222"/>
+        <stop offset="0.54" stop-color="#0f0f0f"/>
+        <stop offset="0.76" stop-color="#040404"/>
+        <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="linear-gradient-2" x1="589.5" y1="388.36" x2="667.87" y2="388.36" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="0.24" stop-color="#fdfdfd"/>
+        <stop offset="0.38" stop-color="#f4f4f4"/>
+        <stop offset="0.49" stop-color="#e6e6e6"/>
+        <stop offset="0.58" stop-color="#d3d3d3"/>
+        <stop offset="0.67" stop-color="#b9b9b9"/>
+        <stop offset="0.75" stop-color="#999"/>
+        <stop offset="0.83" stop-color="#737373"/>
+        <stop offset="0.9" stop-color="#484848"/>
+        <stop offset="0.97" stop-color="#181818"/>
+        <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="linear-gradient-3" x1="310.59" y1="308.06" x2="341.12" y2="360.94" xlink:href="#linear-gradient-2"/>
+      <linearGradient id="linear-gradient-4" x1="621.15" y1="324.78" x2="651.67" y2="377.65" gradientTransform="translate(363 -304.42) rotate(43.01)" xlink:href="#linear-gradient-2"/>
+      <linearGradient id="linear-gradient-5" x1="512.63" y1="258.36" x2="536.61" y2="282.34" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="0.35" stop-color="#fdfdfd"/>
+        <stop offset="0.55" stop-color="#f4f4f4"/>
+        <stop offset="0.71" stop-color="#e6e6e6"/>
+        <stop offset="0.85" stop-color="#d3d3d3"/>
+        <stop offset="0.97" stop-color="#b9b9b9"/>
+        <stop offset="1" stop-color="#b3b3b3"/>
+      </linearGradient>
+      <linearGradient id="linear-gradient-6" x1="522.04" y1="259.96" x2="542.17" y2="280.1" xlink:href="#linear-gradient-5"/>
+    </defs>
+    <rect id="background" x="5" width="870" height="484" fill="url(#linear-gradient)"/>
+    <circle cx="441" cy="418.5" r="322.5" fill="#fff"/>
+    <g clip-path="url(#clip-path)">
+      <path id="midground" d="M-.5,433.28V472.5h1475V433.28s-117-44.49-201-17.7-102,25.83-147,17.7-127-17.22-165,0-255-9.57-255-9.57-78-2.87-156,16.26-265-40.17-345-19.61S144.5,457.67-.5,433.28Z" transform="translate(6 2.5)" fill="#707070"/>
+    </g>
+    <g id="rainbow">
+      <path d="M546.42,358.5S630.24,102.93,928.5,83.27" transform="translate(6 2.5)" fill="none" stroke="#9912e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path d="M537.71,349.15S621.53,93.58,919.79,73.92" transform="translate(6 2.5)" fill="none" stroke="#1482dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path d="M529,340.88S612.82,85.3,911.08,65.65" transform="translate(6 2.5)" fill="none" stroke="#16db86" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path d="M521.39,330.53S605.2,75,903.46,55.3" transform="translate(6 2.5)" fill="none" stroke="#d4d819" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path d="M514.85,319.15S598.67,63.58,896.93,43.92" transform="translate(6 2.5)" fill="none" stroke="#ea9713" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path d="M510.5,306.73S594.32,51.16,892.58,31.5" transform="translate(6 2.5)" fill="none" stroke="#e82315" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+    </g>
+    <g class="boat">
+      <path class="tail" d="M595.66,409.22c-2.49,0-4.17-.79-5.14-2.41-3.8-6.35,4-23.95,7.48-30.43a43.54,43.54,0,0,1,26.83-8.88c14.06,0,28.53,6.13,43,18.23-6.76.43-26,3.11-57.79,18.91C604,407.68,599.11,409.22,595.66,409.22Z" transform="translate(6 2.5)" fill="url(#linear-gradient-2)" stroke="black" stroke-width="2"/>
+      <g id="legs-back">
+          <circle cx="292.5" cy="341" r="26" fill="#cccaca" stroke="black" stroke-width="2"/>
+          <circle cx="567.5" cy="369" r="26" fill="#cccaca" stroke="black" stroke-width="2"/>
+      </g>
+      <image id="drawing" width="789" height="460" transform="translate(144.5 196) scale(0.61 0.63)" xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/drawingimport.png"/>
+      <g id="legs-front">
+        <path d="M320.69,365.29c-15.44,0-28.19-8-31.73-19.77-2.28-7.64-.62-16,4.68-23.46s13.73-13.35,23.63-16.31a48.32,48.32,0,0,1,13.75-2c15.45,0,28.2,7.94,31.73,19.77,2.28,7.63.62,16-4.67,23.45s-13.74,13.36-23.64,16.31A47.93,47.93,0,0,1,320.69,365.29Z" transform="translate(6 2.5)" fill="url(#linear-gradient-3)" stroke="black" stroke-width="2"/> 
+        <path d="M596.08,418.35a46.61,46.61,0,0,1-20.55-5C566.27,408.79,559,401.65,555,393.3s-4.18-16.77-.64-23.91c4.58-9.24,14.78-14.75,27.27-14.75a46.58,46.58,0,0,1,20.55,5c9.26,4.59,16.55,11.72,20.54,20.08s4.17,16.77.63,23.9C618.77,412.84,608.58,418.35,596.08,418.35Z" transform="translate(6 2.5)" fill="url(#linear-gradient-4)" stroke="black" stroke-width="2"/>
+    </g>
+    <path id="arm" d="M 517 265 C 530 262 530 262 530 250 Q 540 230 550 250 C 550 285 550 285 510 300" transform="translate(6 2.5)" stroke="#000" stroke-miterlimit="10" fill="url(#linear-gradient-5)"/> 
+    </g><!--boat-->
+    <image id="ripple" width="872" height="432" transform="translate(3.5 471) scale(1 1.01)" xlink:href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/drawing-reflection.jpg"/>
+  </svg>
+</div>
