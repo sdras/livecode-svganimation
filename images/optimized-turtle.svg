@@ -38,7 +38,7 @@
     <linearGradient id="linear-gradient-6" x1="522.04" y1="259.96" x2="542.17" y2="280.1" xlink:href="#linear-gradient-5"/>
   </defs>
   <rect id="background" x="5" width="870" height="484" fill="url(#linear-gradient)"/>
-  <circle cx="441" cy="418.5" r="322.5" fill="#fff"/>
+  <circle id="moon" cx="441" cy="418.5" r="322.5" fill="#fff"/>
   <g clip-path="url(#clip-path)">
     <path id="midground" d="M-.5,433.28V472.5h1475V433.28s-117-44.49-201-17.7-102,25.83-147,17.7-127-17.22-165,0-255-9.57-255-9.57-78-2.87-156,16.26-265-40.17-345-19.61S144.5,457.67-.5,433.28Z" transform="translate(6 2.5)" fill="#707070"/>
   </g>
@@ -51,7 +51,7 @@
     <path d="M510.5,306.73S594.32,51.16,892.58,31.5" transform="translate(6 2.5)" fill="none" stroke="#e82315" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
   </g>
   <g id="boat">
-    <path class="tail" d="M595.66,409.22c-2.49,0-4.17-.79-5.14-2.41-3.8-6.35,4-23.95,7.48-30.43a43.54,43.54,0,0,1,26.83-8.88c14.06,0,28.53,6.13,43,18.23-6.76.43-26,3.11-57.79,18.91C604,407.68,599.11,409.22,595.66,409.22Z" transform="translate(6 2.5)" fill="url(#linear-gradient-2)" stroke="black" stroke-width="2"/>
+    <path id="tail" d="M595.66,409.22c-2.49,0-4.17-.79-5.14-2.41-3.8-6.35,4-23.95,7.48-30.43a43.54,43.54,0,0,1,26.83-8.88c14.06,0,28.53,6.13,43,18.23-6.76.43-26,3.11-57.79,18.91C604,407.68,599.11,409.22,595.66,409.22Z" transform="translate(6 2.5)" fill="url(#linear-gradient-2)" stroke="black" stroke-width="2"/>
     <g id="legs-back">
         <circle cx="292.5" cy="341" r="26" fill="#cccaca" stroke="black" stroke-width="2"/>
         <circle cx="567.5" cy="369" r="26" fill="#cccaca" stroke="black" stroke-width="2"/>
