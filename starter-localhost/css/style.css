@@ -1,0 +1,14 @@
+body {
+  background: black;
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+svg {
+  width: 100vw;
+  height: 100vh;
+}
+
+#arm-wave {
+  display: none;
+}
