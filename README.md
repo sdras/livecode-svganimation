@@ -2,6 +2,9 @@
 
 In my Smashing Toronto talk, I'll be live coding an SVG animation from start to finish. Here's the repo that houses the base materials, and any further references for things we don't have time to cover. 🎨 💻
 
+📺 **_See the completed demo here!_**
+[https://codepen.io/sdras/pen/eKLeao/](https://codepen.io/sdras/pen/eKLeao/)
+
 ## Tools that I use or mention during the course of the talk 🛠
 
 - Codepen-safe versions of the [GSAP Plugins](http://codepen.io/GreenSock/pen/OPqpRJ)
@@ -26,4 +29,5 @@ In my Smashing Toronto talk, I'll be live coding an SVG animation from start to 
 ![Left Shark](https://github.com/sdras/livecode-svganimation/raw/master/images/leftshark.gif)
 
 ## More info:
+
 - [twitter](https://twitter.com/sarah_edo)
